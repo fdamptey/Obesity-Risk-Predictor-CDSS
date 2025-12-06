@@ -142,7 +142,9 @@ This configuration mitigates **automation bias** and ensures **clinical accounta
 
 A narrated walkthrough of the project and CDSS prototype is available below:
 
-👉 Video Link: https://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset
+👉 YouTube Video Link: https://www.youtube.com/watch?v=lHVb6tY_ybI
+
+    Kaggle Dataset Linkhttps://www.kaggle.com/datasets/jpkochar/obesity-risk-dataset
 
 ---
 
